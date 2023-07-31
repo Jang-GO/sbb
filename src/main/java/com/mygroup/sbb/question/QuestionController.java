@@ -1,7 +1,5 @@
 package com.mygroup.sbb.question;
 
-import java.util.List;
-
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
